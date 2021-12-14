@@ -1,0 +1,17 @@
+{
+    "profile":{
+        "rol":"DAW student",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos quae tempora voluptates, aperiam qui voluptas doloremque est mollitia, amet expedita sapiente nobis nulla, aliquid praesentium natus ex voluptatum omnis. Eveniet."
+    },
+    "experience":{
+        "first-job-title":"Back-end Developer",
+        "first-job-dates":"February 2017 - Currently",
+        "first-job-description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque dolorem cupiditate, aperiam doloremque, optio non voluptatum quasi commodi et officia corrupti? Placeat inventore id omnis, nostrum nam nesciunt beatae aspernatur?",
+        "second-job-title":"Back-end Developer",
+        "second-job-dates":"February 2017 - Currently",
+        "second-job-description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque dolorem cupiditate, aperiam doloremque, optio non voluptatum quasi commodi et officia corrupti? Placeat inventore id omnis, nostrum nam nesciunt beatae aspernatur?",
+        "last-job-title":"Back-end Developer",
+        "last-job-dates":"February 2017 - Currently",
+        "last-job-description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque dolorem cupiditate, aperiam doloremque, optio non voluptatum quasi commodi et officia corrupti? Placeat inventore id omnis, nostrum nam nesciunt beatae aspernatur?"
+    }
+}

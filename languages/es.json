@@ -1,0 +1,17 @@
+{
+    "profile":{
+        "rol":"Estudiante de Desarrollo de Aplicaciones Web",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos quae tempora voluptates, aperiam qui voluptas doloremque est mollitia, amet expedita sapiente nobis nulla, aliquid praesentium natus ex voluptatum omnis. Eveniet."
+    },
+    "experience":{
+        "first-job-title":"Desarrollador Back-end",
+        "first-job-dates":"Febrero 2017 - Actualmente",
+        "first-job-description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque dolorem cupiditate, aperiam doloremque, optio non voluptatum quasi commodi et officia corrupti? Placeat inventore id omnis, nostrum nam nesciunt beatae aspernatur?",
+        "second-job-title":"Desarrollador Back-end",
+        "second-job-dates":"Febrero 2017 - Actualmente",
+        "second-job-description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque dolorem cupiditate, aperiam doloremque, optio non voluptatum quasi commodi et officia corrupti? Placeat inventore id omnis, nostrum nam nesciunt beatae aspernatur?",
+        "last-job-title":"Desarrollador Back-end",
+        "last-job-dates":"Febrero 2017 - Actualmente",
+        "last-job-description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque dolorem cupiditate, aperiam doloremque, optio non voluptatum quasi commodi et officia corrupti? Placeat inventore id omnis, nostrum nam nesciunt beatae aspernatur?"
+    }
+}
